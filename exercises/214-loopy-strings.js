@@ -52,3 +52,10 @@
 // split('a-b-c', '-') --> ['a', 'b', 'c']
 // split('APPLExxBANANAxxCHERRY', 'xx') --> ['APPLE', 'BANANA', 'CHERRY']
 // split('xyz', 'r') --> ['xyz']
+//ways
+// looping through and using charAt
+//regular expressions (RegEx) to find and replace
+//while loop with index of delimeter on the string
+function split (string, delimiter){
+
+}

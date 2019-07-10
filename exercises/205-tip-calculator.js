@@ -9,6 +9,10 @@
 // Examples:
 // tipAmount(100, 'good') --> 20
 // tipAmount(40, 'fair') --> 6
+function tipAmount(billAmt, good, fair, poor){
+    return (billAmt * good)
+}
+console.log(tipAmount(100, .20))
 
 
 
@@ -20,6 +24,7 @@
 // Examples:
 // totalAmount(100, 'good') --> 120
 // totalAmount(40, 'fair') --> 46
+
 
 
 
